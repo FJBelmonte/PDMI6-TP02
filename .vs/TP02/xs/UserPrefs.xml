@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{930BE4EC-ECC3-468C-9AF4-F64DFEA3A61A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP02/TP02/View/EstiloDinamico.xaml.cs">
+    <Files>
+      <File FileName="TP02/TP02/View/EstiloDinamico.xaml" Line="12" Column="38" />
+      <File FileName="TP02/TP02/View/EstiloDinamico.xaml.cs" Line="20" Column="10" />
+      <File FileName="TP02/TP02/View/ListViewSimples.xaml" Line="10" Column="63" />
+      <File FileName="TP02/TP02/View/Principal.xaml" Line="74" Column="34" />
+      <File FileName="TP02/TP02/View/Home.xaml" Line="1" Column="1" />
+      <File FileName="TP02/TP02/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP02" expanded="True">
+            <Node name="TP02" expanded="True">
+              <Node name="View" expanded="True">
+                <Node name="EstiloDinamico.xaml" expanded="True">
+                  <Node name="EstiloDinamico.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TP02.Android PreferredExecutionTarget="Android.Nexus_S_API_26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

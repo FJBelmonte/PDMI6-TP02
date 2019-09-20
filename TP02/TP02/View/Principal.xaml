@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP02.View.Principal">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--
+             <Label 
+               FontSize="Small"
+               Text="Style Resources"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />
+            
+            <Button
+                Text="ESTILO PADRÃO"
+                Clicked="ParaEstiloPadrao"/>
+            <Button 
+                Text="ESTILO DINAMICO"
+                Clicked="ParaEstiloDinamico"/>
+                
+            <Button 
+                Text="ESTILO EVENT TRIGGRES"
+                Clicked="ParaTrigger"/>
+            <Button 
+                Text="ESTILO GLOBAL"/>
+
+             
+             <Label 
+               Text="Passar parametro"/>
+
+            <Button Text="HOME" 
+            Clicked="ParaHome"/>
+            
+            <Button Text="MESSAGING CENTER" />
+           
+            <Label 
+               Text="ListView"/>       
+            
+            <Button Text="SIMPLES"
+             Clicked="ParaListViewSimples"/>
+          
+            <Button Text="CLASSE COMPLEXA"/>
+          
+            <Button Text="PRODUTO"/>
+        --> 
+
+        <!-- Os que tem conteúdo -->
+        <Label 
+               FontSize="Small"
+               Text="Style Resources"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />
+            
+            <Button
+                Text="ESTILO PADRÃO"
+                Clicked="ParaEstiloPadrao"/>
+            <Button 
+                Text="ESTILO DINAMICO"
+                Clicked="ParaEstiloDinamico"/>
+                
+            <Button 
+                Text="ESTILO EVENT TRIGGRES"
+                Clicked="ParaTrigger"/>
+          
+           <Label 
+               Text="Passar parametro"/>
+
+            <Button Text="HOME" 
+            Clicked="ParaHome"/>
+          
+         <Label 
+               Text="ListView"/>       
+            
+            <Button Text="SIMPLES"
+             Clicked="ParaListViewSimples"/>
+    
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
